@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1011107940042",
+    "firebase_url": "https://music-player-charpt-8cb86-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "music-player-charpt-8cb86",
+    "storage_bucket": "music-player-charpt-8cb86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011107940042:android:002dcfe681637e161c1633",
+        "android_client_info": {
+          "package_name": "com.example.mp_charpt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhg_JHWyNOVeMLh4g36cHm5eolBRF2_cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
